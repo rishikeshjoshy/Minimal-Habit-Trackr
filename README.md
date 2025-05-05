@@ -22,6 +22,7 @@ To Be Uploaded
 🚀 **Custom Heatmap Colors** for better personalization  
 🔔 **Habit Reminders & Notifications**  
 📊 **Detailed Analytics & Reports**  
+🔧 **Home-Screen Widget** seamless sneak-peak into past consistent activity
 
 ## 💖 Contributions
 Want to improve this project? **Fork it, make changes, and submit a PR!** 🚀
